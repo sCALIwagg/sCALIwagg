@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sCALIwagg
-- 👀 I’m interested in becoming a bug bounty hunter
-- 🌱 I’m currently learning A+ 1002-2002
-- 💞️ I’m looking to collaborate on a CTF team
-- 📫 How to reach me ...don't
+- 👀 I’m interested in becoming a dev ops engineer
+- 🌱 I’m currently learning code fundamentals while practicing C
+- 💞️ I’m looking to 
+- 📫 How to reach me ...I'm not sure yet
 
 <!---
 sCALIwagg/sCALIwagg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
