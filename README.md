@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sCALIwagg
 - 👀 I’m interested in becoming a dev ops engineer
 - 🌱 I’m currently learning code fundamentals while practicing C
-- 💞️ I’m looking to 
+- 💞️ I’m looking to install a VPN in my homelab
 - 📫 How to reach me ...I'm not sure yet
 
 <!---
